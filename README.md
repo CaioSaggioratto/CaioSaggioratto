@@ -3,10 +3,15 @@
 Sou estudante de ciência da computação e futuramente estudante de robótica, apaixonado por tecnologia e suas grandezas, atualmente estou focado em aprender back-end, estou sempre em busca de conhecimento e desenvolvimento. 🖥️
 
 Linguagens em desenvolvimento:
+
 CSS;
+
 HTML;
+
 Java;
+
 Javascript;
+
 Python 3
 
 "Uma imagem vale mais do que mil palavras, mas ocupa 3 mil vezes mais espaço em disco."

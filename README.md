@@ -19,3 +19,5 @@ Sou estudante de ciência da computação e futuramente estudante de robótica, 
 ## Tecnologias e ferramentas: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSaggioratto&layout=compact)](https://github.com/CaioSaggioratto/github-readme-stats)
+
+  ![ Animação de cobra ](https://github.com/CaioSaggioratto/CaioSaggioratto/blob/output/github-contribution-grid-snake.svg) 

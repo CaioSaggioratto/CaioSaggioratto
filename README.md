@@ -12,11 +12,8 @@ Sou estudante de ciência da computação e futuramente estudante de robótica, 
 
 
 
-
-![CaioSaggioratto GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSaggioratto&hide=contribs,prs)
-
 -----------------------------
-## Tecnologias e ferramentas: 
+![CaioSaggioratto GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioSaggioratto&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSaggioratto&layout=compact)](https://github.com/CaioSaggioratto/github-readme-stats)
 

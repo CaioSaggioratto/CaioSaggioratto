@@ -1,6 +1,6 @@
 ## Bem-vindo!
 ## Olá, meu nome é Caio Saggioratto Mesquita, permita-me fazer uma breve apresentação.
-Sou estudante de ciência da computação e futuramente estudante de robótica, apaixonado por tecnologia e suas grandezas, atualmente estou focado em aprender back-end, mais especificamente em python e java, mas pretendo aprender sobre tudo.
+Sou estudante de ciência da computação e futuramente estudante de robótica, apaixonado por tecnologia e suas grandezas, atualmente estou focado em aprender back-end, mais especificamente em python e java, estou sempre em busca de conhecimento e desenvolvimento.
 
 "Uma imagem vale mais do que mil palavras, mas ocupa 3 mil vezes mais espaço em disco."
  

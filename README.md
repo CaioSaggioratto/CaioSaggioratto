@@ -9,5 +9,3 @@ Sou estudante de ciência da computação e futuramente estudante de robótica, 
 
   
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e470tltbm65fstl61f78266rf628h5t7rsafla8l5fm&rid=giphy.gif&ct=g" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen/>
-
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

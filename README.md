@@ -8,4 +8,4 @@ Sou estudante de ciência da computação e futuramente estudante de robótica, 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge-square&logo=Gmail&logoColor=white&link=mailto:caiosaggiorattomesquita@gmail.com)](mailto:caiosaggiorattomesquita@gmail.com)
 
   
-<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e470tltbm65fstl61f78266rf628h5t7rsafla8l5fm&rid=giphy.gif&ct=g" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen/><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
+<img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e470tltbm65fstl61f78266rf628h5t7rsafla8l5fm&rid=giphy.gif&ct=g" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen/>

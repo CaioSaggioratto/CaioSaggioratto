@@ -3,16 +3,11 @@
 Sou estudante de ciência da computação e futuramente estudante de robótica, apaixonado por tecnologia e suas grandezas, atualmente estou focado em aprender back-end, estou sempre em busca de conhecimento e desenvolvimento. 🖥️
 
 Linguagens em desenvolvimento:
-
-CSS;
-
-HTML;
-
-Java;
-
-Javascript;
-
-Python 3
+img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://images.vexels.com/media/users/3/166477/isolated/lists/9bb722f0e85ddbc1ce0f064534fd2311-icone-da-linguagem-de-programacao-python.png">
+  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 
 "Uma imagem vale mais do que mil palavras, mas ocupa 3 mil vezes mais espaço em disco."
  
